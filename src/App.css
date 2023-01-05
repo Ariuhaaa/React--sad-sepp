@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  width: 1280px;
+}
+
+
+/* nav */
+.nav1 {
+  width: 40%;
+}
+.nav2 {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+/* section1 */
+h1 {
+  color: rgb(230, 91, 114);
+  margin-bottom: 50px;
+}
+.photos {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+.section1 {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-betweens;
+
+}
+.navbar {
+  list-style: none;
+  font-weight: 700;
+  width: 60%;
+ 
+}
